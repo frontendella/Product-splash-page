@@ -1,9 +1,8 @@
 # [Product-splash-page](https://frontendella.github.io/Product-splash-page/)
 
 
-<img align="right"  width="200" src="https://user-images.githubusercontent.com/82247833/206612085-66f07f3e-f177-4f14-b3b8-5d4e7844b8aa.png"/>
 
-<img align="left" width="500" src="https://user-images.githubusercontent.com/82247833/206612589-c0aa1eab-bbaa-4f12-b460-6b75edd416de.png"/>
+[<img src="https://user-images.githubusercontent.com/82247833/206613839-f683c7ad-d7da-45af-b526-f8426bd6fb40.png"/>](https://frontendella.github.io/Product-splash-page/)
 
 
 
